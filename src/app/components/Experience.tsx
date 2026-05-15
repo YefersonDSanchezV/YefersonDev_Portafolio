@@ -81,9 +81,6 @@ export function Experience() {
               <h3 className="text-2xl font-semibold text-[#003354] mb-2">
                 Asistente de Ingeniería TI y Desarrollador FullStack
               </h3>
-              <p className="text-lg text-[#F26101] font-medium">
-                Instituto Cardiovascular del Cesar
-              </p>
             </div>
           </div>
 
